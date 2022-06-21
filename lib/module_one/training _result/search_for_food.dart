@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:moaching_app/custom_widget/custom_navigation_bar.dart';
 
-import '../../model/model_one.dart';
+import '../model/model_one.dart';
+
 
 class SearchForFood extends StatefulWidget {
   const SearchForFood({Key? key}) : super(key: key);

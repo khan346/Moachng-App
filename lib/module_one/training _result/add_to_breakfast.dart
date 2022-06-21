@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:moaching_app/custom_widget/custom_navigation_bar.dart';
 import 'package:moaching_app/module_one/training%20_result/search_for_food.dart';
 
-import '../../model/model_one.dart';
-
 class AddToBreakfast extends StatefulWidget {
   const AddToBreakfast({Key? key}) : super(key: key);
 

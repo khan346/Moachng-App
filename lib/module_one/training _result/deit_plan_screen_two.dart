@@ -2,8 +2,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:moaching_app/custom_widget/custom_navigation_bar.dart';
-import 'package:moaching_app/model/model_one.dart';
 import 'package:moaching_app/module_one/training%20_result/your_macronumber.dart';
+
+import '../model/model_one.dart';
 
 
 class DietPlanScreenTwo extends StatefulWidget {
